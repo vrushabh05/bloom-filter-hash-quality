@@ -1,0 +1,7 @@
+property,hash,mean_fpr,std_fpr,mean_occupancy,seeds
+(a) collision rate,good,0.1409,0.0024,0.755,6
+(a) collision rate,high-collision,0.792,0.0135,0.396,6
+(b) independence,dependent,0.4863,0.0057,0.755,6
+(c) distribution,biased,0.9766,0.0047,0.249,6
+(d) avalanche,good (near queries),0.1394,0.0041,0.755,6
+(d) avalanche,poor avalanche,0.9706,0.003,0.172,6

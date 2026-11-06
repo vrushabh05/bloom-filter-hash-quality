@@ -1,0 +1,38 @@
+[
+  {
+    "property": "(a) collision rate",
+    "hash": "good",
+    "fpr": 0.14525,
+    "occupancy": 0.7574
+  },
+  {
+    "property": "(a) collision rate",
+    "hash": "high-collision",
+    "fpr": 0.7739,
+    "occupancy": 0.3949
+  },
+  {
+    "property": "(b) independence",
+    "hash": "dependent",
+    "fpr": 0.4875,
+    "occupancy": 0.7638
+  },
+  {
+    "property": "(c) distribution",
+    "hash": "biased",
+    "fpr": 0.983,
+    "occupancy": 0.2494
+  },
+  {
+    "property": "(d) avalanche",
+    "hash": "good (near queries)",
+    "fpr": 0.13955,
+    "occupancy": 0.7574
+  },
+  {
+    "property": "(d) avalanche",
+    "hash": "poor avalanche",
+    "fpr": 0.96625,
+    "occupancy": 0.1723
+  }
+]
