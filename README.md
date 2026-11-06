@@ -40,6 +40,10 @@ python make_chart.py          # rebuilds assets/fpr_by_hash.png from results/sum
 - Keys are random 12-character alphanumeric strings; "near" queries change exactly one character of an inserted key.
 - The poor-avalanche hash is deliberately weak and exists only to demonstrate the failure mode.
 
+## Notebooks
+
+[`notebooks/Bloom_filter.ipynb`](notebooks/Bloom_filter.ipynb) is the original assignment notebook with its saved outputs (single run: good hash 0.136, flawed families 0.78, 0.50, 0.98 and 0.97). `bloom_filter.py` is the cleaned, seeded script version.
+
 ## Stack
 
 `Python` `hashlib` `matplotlib`
